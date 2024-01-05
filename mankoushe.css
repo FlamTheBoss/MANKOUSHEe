@@ -1,0 +1,247 @@
+table {
+    border: 1px solid black;
+    width: 300px;
+    height:200px;
+    align-items: center;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 4%;
+    
+    }
+
+    .noo{
+color: #ed4d21;
+align-items: center;
+text-align: center;
+margin: 40px auto;
+padding: 20px 30px 40px 30px;
+background-color: rgb(170, 147, 17);
+overflow: auto;
+width: 75%;
+border-radius: 4px;
+align-self: center;
+
+
+    }
+
+    thead {
+background-color: rgb(140, 140, 29);
+color: white;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 18px;
+  font-weight: 100;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  border-radius: 5px;
+    }
+
+    tbody{
+background-color: bisque;
+color: rgb(201, 121, 16);
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: 20px;
+text-align: center;
+font-weight: 70;
+letter-spacing: 1px;
+    }
+
+    .orderr{
+        height: 70px;
+        width: 70px;
+        
+    }
+
+    .menuuu{
+        height: 60px;
+        width: 60px;
+    }
+     
+h1:hover,
+h2:hover,
+.mama:hover{
+    color: orange;
+    transform: scale(1.1);
+
+}
+
+.fuu {
+    text-align: center;
+    margin: 40px auto;
+  padding: 20px 30px 40px 30px;
+  background-color: rgb(137, 114, 74);
+  overflow: auto;
+  width: 75%;
+  border-radius: 4px;
+  align-self: center;
+  
+}
+
+h2 {
+    color: #41292C;
+    font-family: 'Raleway', sans-serif;
+    font-size: 6000px;
+    font-weight: 500;
+    text-align: center;
+}
+
+p{
+    color: #938E89;
+    text-align: center;
+    line-height: 24px;
+    font-family: 'Raleway', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.zaa {
+    color: #eed248;
+    text-align: center;
+    line-height: 24px;
+    font-family: 'Raleway', sans-serif;
+    font-size: 17px;
+    font-weight: 600;
+
+}
+
+.jeb {
+    color: #eed248;
+    text-align: center;
+    line-height: 24px;
+    font-family: 'Raleway', sans-serif;
+    font-size: 17px;
+    font-weight: 600;
+
+}
+
+.lah {
+    color: #eed248;
+    text-align: center;
+    line-height: 24px;
+    font-family: 'Raleway', sans-serif;
+    font-size: 17px;
+    font-weight: 600;
+
+}
+
+h2{
+    font-family: 'Raleway', sans-serif;
+    letter-spacing: 2px;
+    padding:1px;
+    font-size: large;
+
+}
+
+
+
+* {
+
+    text-align: center;
+  }
+
+h1{
+
+    text-align: center;
+
+}
+
+a{
+    padding: 10px;
+    width: 70px;
+    height: 70px;
+}
+
+.kkk{
+    background-image: url(MANKOUSHE/img/R.jpg);
+    height: 200px;
+    background-position: center center;
+    align-items: center;
+    text-align: center;
+    border-radius: 5px;
+   
+    
+}
+
+.kkkk{
+    text-align: center;
+    vertical-align: middle;
+    font-size: 30px;
+    color: rgb(251, 255, 0);
+    font-family:  'Raleway', sans-serif;
+}
+
+body{
+    background-color: antiquewhite;
+}
+
+#whats{
+    margin: 40px auto;
+    padding: 20px 30px 40px 30px;
+    background-color: #FFFFFF;
+    overflow: auto;
+    width: 75%;
+    border-radius: 4px;
+    align-self: center;
+}
+
+.imgg{
+    width: 405px;
+}
+
+
+.zaatar{
+    margin: 40px auto;
+    padding: 10px 30px 40px 30px;
+    background-image: url(MANKOUSHE/img/zaatar.jpg);
+    overflow: auto;
+    width: 75%;
+
+    border-radius: 4px;
+    align-self: center;
+    color: beige;
+    font-size: 30px;
+    background-repeat: no-repeat;
+    background-size: 120%;
+}
+
+
+.jebne{
+    margin: 40px auto;
+    padding: 10px 30px 40px 30px;
+    background-image: url(MANKOUSHE/img/jebne.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    overflow: auto;
+    width: 75%;
+    border-radius: 4px;
+    align-self: center;
+    color: rgb(104, 64, 15);
+    font-size: 30px;
+}
+
+.lahem{
+    margin: 40px auto;
+    padding: 30px 30px 40px 30px;
+    background-image:  url(MANKOUSHE/img/lahme2.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    font-size: 30px;
+    overflow: auto;
+    width: 75%;
+    border-radius: 4px;
+    align-self: center;
+    color: rgb(255, 242, 0);
+}
+
+span{
+    color: #41292C;
+    font-family: 'Raleway', sans-serif;
+    font-size: 25px;
+    font-weight: 500;
+    text-align: center;
+}
+
+span:hover{
+    color: orange;
+    font-size: 27px;
+}

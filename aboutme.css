@@ -1,0 +1,40 @@
+.abt{
+font-size: large;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+border: 3.5px blue;
+background-color: aquamarine;
+
+
+}
+
+
+body{
+    background-color: hsl(252, 62%, 43%);
+    text-align: left;
+    border: 1px #013c7e;
+    border-style: double;
+    border-radius: 10px;
+}
+
+p{
+    font-family: cursive;
+    font-weight: bold;
+}
+
+.end{
+    text-align: center;
+    color: red;
+}
+
+a{
+    background-color: #1c87c9;
+    border: none;
+    color: white;
+    padding: 20px 34px;
+    text-align: center;
+    text-decoration:overline underline;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
